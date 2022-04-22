@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m currently a Junior at Ho Chi Minh University of Science
+I'm developing myself every day, improving my knowledge and skills of programming to become a highly qualified software engineer
