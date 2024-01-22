@@ -1,18 +1,12 @@
-### Hi 👋 , I'm Ngo Quoc Toai
+### Howdy! I'm Ngo Quoc Toai 👋
 
-Hello! I'm a highly skilled and experienced full-stack developer specializing in web and mobile development. With over 7 years of professional experience in software development, I have honed my skills and expertise in a variety of technologies, including React, Vue, Flutter/Dart, Swift, Kotlin, Retool and more.
+Welcome! With over 7 years in the field, I am an experienced full-stack developer specialized in both web and mobile development. My journey has equipped me with profound knowledge in React, Vue, Flutter/Dart, Swift, and Kotlin. This diverse skill set enables me to handle everything from front-end to back-end development, crafting seamless user experiences across various platforms.
 
-Throughout my career, I have successfully delivered numerous projects, ranging from small-scale applications to complex enterprise-level solutions. I possess a strong understanding of both front-end and back-end development, allowing me to create seamless and efficient user experiences.
+My professional career is marked by a series of successfully delivered projects, ranging from simple applications to complex, large-scale solutions. In web development, my proficiency lies in using React and Vue to build scalable and robust applications. My experience also extends to creating cross-platform mobile apps with Flutter and developing native applications using Swift for iOS and Kotlin for Android.
 
-In terms of web development, I am proficient in React and Vue, two widely adopted JavaScript frameworks. I have a deep understanding of their core concepts, best practices, and ecosystem, enabling me to build robust and scalable web applications. I have extensive experience working with RESTful APIs, integrating third-party libraries and services, and optimizing application performance.
+My approach to development is grounded in strong problem-solving skills, meticulous attention to detail, and the ability to work effectively in team settings. I pride myself on quickly understanding project requirements, translating them into efficient technical solutions, and consistently exceeding client expectations. Staying abreast of the latest technological trends and practices is a commitment for me, ensuring that I bring innovative and up-to-date solutions to the table.
 
-When it comes to mobile development, I specialize in Flutter/Dart, Swift, and Kotlin. I have developed cross-platform mobile applications using Flutter, leveraging its powerful UI toolkit to create stunning and responsive user interfaces. Additionally, I am skilled in native iOS development using Swift and Android development using Kotlin, allowing me to deliver high-quality native mobile applications tailored to specific platform requirements.
-
-My strong problem-solving skills, attention to detail, and ability to collaborate effectively make me a valuable asset to any development team. I take pride in my ability to quickly grasp project requirements, translate them into technical solutions, and deliver results that exceed client expectations. I am well-versed in agile methodologies, ensuring timely and efficient project delivery while maintaining constant communication with stakeholders.
-
-As a full-stack developer, I am dedicated to staying up-to-date with the latest industry trends and technologies. I continuously invest time in learning and expanding my skill set, enabling me to provide innovative solutions that align with modern development practices.
-
-If you are seeking a skilled, reliable, and versatile full-stack developer to bring your web or mobile project to life, I would be thrilled to collaborate with you. Feel free to reach out, and let's discuss how I can contribute to your success.
+If you're looking for a skilled, reliable, and adaptable full-stack developer for your web or mobile project, I'm here to turn your ideas into reality. Feel free to get in touch to discuss how I can contribute to your project's success.
 
 
 ### Connect with me:
