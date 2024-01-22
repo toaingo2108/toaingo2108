@@ -17,7 +17,7 @@ If you are seeking a skilled, reliable, and versatile full-stack developer to br
 
 ### Connect with me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nqtoai2181@gmail.com)
-[![Facebook](https://img.shields.io/badge/UpWork-6FDA44)](https://www.upwork.com/freelancers/toaiq/)
+[![Facebook](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=gmail&logoColor=white)](https://www.upwork.com/freelancers/toaiq/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nqtoai2181/)
 
 
