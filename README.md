@@ -1,6 +1,6 @@
 ### Howdy! I'm Ngo Quoc Toai 👋
 
-Welcome! With over 7 years in the field, I am an experienced full-stack developer specialized in both web and mobile development. My journey has equipped me with profound knowledge in React, Vue, Flutter/Dart, Swift, and Kotlin. This diverse skill set enables me to handle everything from front-end to back-end development, crafting seamless user experiences across various platforms.
+Welcome! With over 3 years in the field, I am an experienced full-stack developer specialized in both web and mobile development. My journey has equipped me with profound knowledge in React, Vue, Flutter/Dart, Swift, and Kotlin. This diverse skill set enables me to handle everything from front-end to back-end development, crafting seamless user experiences across various platforms.
 
 My professional career is marked by a series of successfully delivered projects, ranging from simple applications to complex, large-scale solutions. In web development, my proficiency lies in using React and Vue to build scalable and robust applications. My experience also extends to creating cross-platform mobile apps with Flutter and developing native applications using Swift for iOS and Kotlin for Android.
 
