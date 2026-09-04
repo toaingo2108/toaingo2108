@@ -1,77 +1,67 @@
-### Howdy! I'm Ngo Quoc Toai 👋
+<div align="center">
 
-Welcome! With over 3 years in the field, I am an experienced full-stack developer specialized in both web and mobile development. My journey has equipped me with profound knowledge in React, Vue, Flutter/Dart, Swift, and Kotlin. This diverse skill set enables me to handle everything from front-end to back-end development, crafting seamless user experiences across various platforms.
+# Hi, I'm Ngo Quoc Toai 👋
 
-My professional career is marked by a series of successfully delivered projects, ranging from simple applications to complex, large-scale solutions. In web development, my proficiency lies in using React and Vue to build scalable and robust applications. My experience also extends to creating cross-platform mobile apps with Flutter and developing native applications using Swift for iOS and Kotlin for Android.
+### Full-Stack Software Engineer
 
-My approach to development is grounded in strong problem-solving skills, meticulous attention to detail, and the ability to work effectively in team settings. I pride myself on quickly understanding project requirements, translating them into efficient technical solutions, and consistently exceeding client expectations. Staying abreast of the latest technological trends and practices is a commitment for me, ensuring that I bring innovative and up-to-date solutions to the table.
+**React / Next.js · Java / Spring Boot · TypeScript · Microservices**
 
-If you're looking for a skilled, reliable, and adaptable full-stack developer for your web or mobile project, I'm here to turn your ideas into reality. Feel free to get in touch to discuss how I can contribute to your project's success.
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://toainq.okeconde.io.vn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nqtoaidev)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nqtoai2181@gmail.com)
 
+</div>
 
-### Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nqtoai2181@gmail.com)
+## About me
 
+I'm a software engineer based in Ho Chi Minh City, Vietnam, with **4 years of experience** building production web applications across frontend and backend.
 
-### Tools:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- 💻 Building scalable applications with **React, Next.js, TypeScript, Java, and Spring Boot**
+- 🧩 Experienced with internal tools, admin dashboards, SaaS interfaces, and B2B platforms
+- 📊 Comfortable building data-heavy tables, advanced filters, Kanban views, and analytics dashboards
+- ⚙️ Working with REST APIs, authentication, role-based access control, microservices, and event-driven systems
+- 🐳 Experienced with Docker, CI/CD, AWS, Vercel, Netlify, and self-managed servers
+- 🤖 Using Claude Code, Codex, and OpenClaw to improve development workflows
+- 🌱 Currently deepening my knowledge of backend architecture, distributed systems, and system design
 
+## Tech stack
 
-### Languages:
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-### Frameworks and Technologies:
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Handlebar](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+### Backend and messaging
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### Databases:
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLserver](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### Databases and tools
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
+---
 
+<div align="center">
 
+I'm open to opportunities and collaborations involving full-stack web development, frontend architecture, and Java backend systems.
 
+**[View my portfolio](https://toainq.okeconde.io.vn/) · [Connect on LinkedIn](https://linkedin.com/in/nqtoaidev) · [Send me an email](mailto:nqtoai2181@gmail.com)**
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=hoangtien1005&no-frame=true&no-bg=true&theme=algolia&column=7&margin-w=15" />
-</a>
-
-
- ![](https://github.com/hoangtien1005/github-stats/blob/master/generated/overview.svg)
- 
- ![](https://github.com/hoangtien1005/github-stats/blob/master/generated/languages.svg)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoangtien10051212%2Fhit-counter" />
-</a>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtien1005&repo=github-readme-stats&layout=compact&show_icons=true&hide_border=true&theme=react&langs_count=10" />
-</a> -->
-
-
-
-<br>
-
-
+</div>
